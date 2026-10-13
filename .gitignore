@@ -1,0 +1,32 @@
+/node_modules
+pnpm-lock.yaml
+# Hardhat artifacts and cache
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+typechain-types/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+dist/
+build/
